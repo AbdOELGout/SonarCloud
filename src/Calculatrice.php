@@ -6,6 +6,9 @@ class Calculatrice{
     public function division($a,$b){
         return $a / $b;
     }
+    public function soustraction($a,$b){
+        return $a - $b;
+    }
 }
 
 ?>
