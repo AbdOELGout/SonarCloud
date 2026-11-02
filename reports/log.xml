@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\Users\abdal\Desktop\tp-unit-test\phpunit.xml" tests="1" assertions="0" errors="1" failures="0" skipped="0" time="0.077135">
+    <testsuite name="Unit Tests" tests="1" assertions="0" errors="1" failures="0" skipped="0" time="0.077135">
+      <testsuite name="Testes\StagiaireTest" file="C:\Users\abdal\Desktop\tp-unit-test\tests\StagiaireTest.php" tests="1" assertions="0" errors="1" failures="0" skipped="0" time="0.077135">
+        <testcase name="testAddition" file="C:\Users\abdal\Desktop\tp-unit-test\tests\StagiaireTest.php" line="10" class="Testes\StagiaireTest" classname="Testes.StagiaireTest" assertions="0" time="0.077135">
+          <error type="Error">Testes\StagiaireTest::testAddition&#13;
+Error: Class "App\Stagiare" not found
+&#13;
+C:\Users\abdal\Desktop\tp-unit-test\tests\StagiaireTest.php:12</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
+
+deploy continue
+auto merge
+github action
+
+-------------
+
+scrum
+git 
+sonarqube
+monitor : cafca
